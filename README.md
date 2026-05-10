@@ -4,15 +4,6 @@ An OS lab project simulating a university course registration system using POSIX
 
 ---
 
-## Group Members
-
-| Name | Role |
-|---|---|
-| Member 1 | Data structures, course logic, thread management, synchronization |
-| Member 2 | Priority handling, logging, testing |
-
----
-
 ## Project Structure
 
 ```
